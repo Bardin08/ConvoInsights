@@ -1,0 +1,6 @@
+@ConvoInsights.Api_HostAddress = http://localhost:5053
+
+GET {{ConvoInsights.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
